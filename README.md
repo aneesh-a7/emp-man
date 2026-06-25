@@ -6,9 +6,9 @@ A Django CRUD app for managing employee records — add, view, remove, and searc
 Python, Django
 
 ## Run it
-pip install django
+pip install django,
 
-python manage.py migrate
+python manage.py migrate,
 
 python manage.py runserver
 
